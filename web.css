@@ -1,0 +1,38 @@
+body{
+
+    bac-kground-color: black;
+    background-image: url("/home/gourav/Desktop/Untitled Folder/Light-blue-wallpaper-hd-quality.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+marquee{
+    font-size: 25px;
+    border-radius: 15px ;
+    background-color: rgb(255, 230, 0);
+    padding: 10px;
+    margin-top: 15px;
+    color: rgb(216, 16, 16);
+    -moz-text-decoration-style: dashed;
+}
+
+.OM{
+    filter: drop-shadow(15px 10px 5px);
+    margin-top: 30px;
+}
+
+.box{
+    height: 400px;
+    width:1020px ;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    color: blueviolet;
+
+}
+.om{
+    
+    text-align: center;
+}
